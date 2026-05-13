@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-<p align="center">
-  <img src="Figure_3.png" width="300">
-</p>
+![Figure 3](Figure_3.PNG)
 
 
 Input² is an immersive Virtual Reality (VR) restaurant menu system designed for exploring how **3D food visualization and hand-tracked interaction** influence user decision-making, usability, and confidence in a dining context.
