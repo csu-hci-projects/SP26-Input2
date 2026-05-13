@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+![VR Menu](https://raw.githubusercontent.com/csu-hci-projects/SP26-Input2/main/figure_3.png)
+
+
 Input² is an immersive Virtual Reality (VR) restaurant menu system designed for exploring how **3D food visualization and hand-tracked interaction** influence user decision-making, usability, and confidence in a dining context.
 
 Users can interact with realistic 3D food models inside a virtual restaurant environment, inspect them from multiple angles, and add items to a virtual cart using intuitive hand-based interactions.
