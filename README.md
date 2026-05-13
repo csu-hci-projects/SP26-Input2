@@ -10,7 +10,7 @@ Input² is an immersive Virtual Reality (VR) restaurant menu system designed for
 Users can interact with realistic 3D food models inside a virtual restaurant environment, inspect them from multiple angles, and add items to a virtual cart using intuitive hand-based interactions.
 
 ---
-
+Our Paper [View PDF](https://github.com/<username>/<repo>/blob/main/SP26-Input2/An%20Evaluation%20of%20User%20Perception%20and%20Interaction.pdf)
 ## Demo Videos
 
 ### Project Overview
