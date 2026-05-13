@@ -114,8 +114,7 @@ To stop the experience:
 
 - Courtney Malone  
 - Enock Apedjinou  
-Colorado State University — Human-Computer Interaction
-
+Colorado State University
 ---
 
 ## Notes
