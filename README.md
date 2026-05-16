@@ -44,7 +44,7 @@ https://github.com/csu-hci-projects/SP26-Input2
 
 ### Software Dependencies
 - Unity XR Interaction Toolkit
-- Meta XR SDK (for hand tracking and headset integration)
+
 
 ---
 
